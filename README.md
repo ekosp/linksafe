@@ -1,0 +1,2 @@
+# linksafe
+Link Safe Redirect
